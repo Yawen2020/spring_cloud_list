@@ -1,0 +1,10 @@
+com\changlu\goodslist\controller\GoodsPriceController.class
+com\changlu\goodslist\client\GoodsListClientHystrix.class
+com\changlu\goodslist\service\impl\GoodsPriceServiceImpl.class
+com\changlu\goodslist\mapper\GoodsPriceMapper.class
+com\changlu\goodslist\pojo\Goods1.class
+com\changlu\goodslist\client\GoodsListClient.class
+com\changlu\goodslist\pojo\GoodsPrice.class
+com\changlu\goodslist\GoodsPriceApplication.class
+com\changlu\goodslist\pojo\GoodsAndPrice.class
+com\changlu\goodslist\service\GoodsPriceService.class

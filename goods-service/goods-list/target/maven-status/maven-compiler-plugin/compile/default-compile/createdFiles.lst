@@ -1,0 +1,6 @@
+com\changlu\demogoods\GoodsListApplication.class
+com\changlu\demogoods\mapper\GoodsMapper.class
+com\changlu\demogoods\service\GoodsService.class
+com\changlu\demogoods\service\impl\GoodsServiceImpl.class
+com\changlu\demogoods\pojo\Goods.class
+com\changlu\demogoods\controller\GoodsController.class
